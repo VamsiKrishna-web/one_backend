@@ -1,0 +1,16 @@
+{
+  "name": "one_backend",
+  "version": "1.0.0",
+  "description": "This is a new backend of series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Vamsi krishna",
+  "license": "ISC"
+}
